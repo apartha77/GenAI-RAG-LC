@@ -1,0 +1,7 @@
+langchain-community
+langchain-aws
+langchain-text-splitters
+python-dotenv
+beautifulsoup4
+PyPDF
+langchain-experimental
